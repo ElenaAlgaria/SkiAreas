@@ -1,0 +1,64 @@
+ENTITY_ID;NAME;REGION;COMMUNES_IN_RESORT;MASL_MIN;MASL_MAX;SKI_RUNS_KM;DRAG_LIFTS;CHAIR_LIFTS;CABLE_CARS;OPEN_LIFTS;SNOW_DEPTH_CM;VISITORS_TODAY;CAR_FREE;FUNPARK_AVAILABLE;IMAGE_URL
+101;Matterhorn Ski Paradise;WW;Zermatt, Valtournenche (I), Breuil-Cervinia (I);1601;3900;252;11;20;19;35;300;3200;TRUE;TRUE;https://encrypted-tbn0.gstatic.com/images?q=tbn:ANd9GcTJN2DnHKqP_clffS7UfxMIqZg8NTDIx0QZZGZ2QXpwyylNPYdT
+102;Les portes du soleil;WW;Morgins, Champéry, Les Crosets usw.;1000;2500;426;114;78;12;10;120;;FALSE;FALSE;
+103;Verbier – Les quatre vallées;WW;Verbier, Nendaz, Veysonnaz u. a.;821;3330;164;50;32;18;82;215;5210;TRUE;TRUE;https://cdn.thegentlemansjournal.com/wp-content/uploads/2012/02/Verbier-Skiing-Switzerland-900x600-c-center.jpg
+104;Val d’Anniviers;WW;Grimentz, Zinal, Vercorin, St-Luc und Chandolin;1340;3025;230;37;3;4;12;;;TRUE;FALSE;https://encrypted-tbn0.gstatic.com/images?q=tbn:ANd9GcTsWX0eBMYChNZJgC--rlT7UN5wJ75131YEbX2i_kFGzjcr4DPgzg
+105;Crans Montana;WW;Crans, Barzettes, Montana, Aminona;1500;3000;72;30;10;7;;220;;FALSE;TRUE;
+106;Anzère;WW;Anzère;1500;2360;58;0;13;0;;50;;FALSE;TRUE;
+107;Saas-Fee;WW;Saas-Fee, Saas Almagell, Saas Grund;1470;3600;145;21;7;9;;;;FALSE;TRUE;https://media.schneemenschen.de/image/db/157502_skifahrer-in-saas-fee.jpeg
+108;Aletsch Arena;WW;Riederalp, Bettmeralp, Fiescheralp;1050;3118;104;0;35;0;23;;;TRUE;TRUE;https://media.schneemenschen.de/image/db/165458_Aletsch_zubringerbahn.jpeg
+109;Leysin;WW;Leysin, Les Mosses, La Lecherette;1253;2200;100;19;7;3;;;4500;FALSE;TRUE;https://media.schneemenschen.de/image/db/199765_snowpark_leysin.jpeg
+110;Les Diablerets;WW;Les Diablerets;1200;2971;80;27;10;8;0;;;TRUE;TRUE;https://media.schneemenschen.de/image/db/157434_mont-blanc.jpeg
+111;Leukerbad;WW;Leukerbad;1411;2800;60;9;1;3;;;;FALSE;TRUE;https://media.schneemenschen.de/image/db/199341_bergstation_torrent.jpeg
+112;Grächen/St.Niklaus;WW;Grächen;1617;2868;40;3;5;2;;;;FALSE;TRUE;https://media.schneemenschen.de/image/db/113105.jpeg
+113;Lötschental;WW;Wiler (Lötschen);1375;3111;33;2;2;1;;120;;TRUE;TRUE;https://media.schneemenschen.de/image/db/199140_laubernalp_skifahrer.jpeg
+114;Gstaad und Umgebung;BE;Gstaad;1200;2971;250;0;69;0;;260;;FALSE;TRUE;https://media.schneemenschen.de/image/db/199746_sesselbahn_wasserngrat.jpeg
+115;Jungfrauregion;BE;Mürren, Wengen, Grindelwald;943;2970;213;19;14;6;;;1050;TRUE;TRUE;https://media.schneemenschen.de/image/db/155895_skifahrer-vor-eiger-moench-und-jungfrau.jpeg
+116;Adelboden-Lenk;BE;Adelboden, Lenk, Frutigen;1068;2330;205;36;7;8;34;;;FALSE;TRUE;https://media.schneemenschen.de/image/db/218866_metschstandexpress-adelboden.jpeg
+117;Meiringen-Hasliberg;BE;Meiringen, Hasliberg;602;2433;60;6;4;6;2;;;FALSE;TRUE;https://media.schneemenschen.de/image/db/200029_gondel_maegisalp.jpeg
+118;Gotthard Oberalp Arena;ZS;Andermatt, Sedrun (GR);1400;2963;125;11;7;2;;;;FALSE;TRUE;https://media.schneemenschen.de/image/db/219095_andermatt_apres_ski_zug.jpeg
+119;Engelberg Titlis;ZS;Engelberg;1050;3020;42;0;24;0;;;;FALSE;TRUE;https://media.schneemenschen.de/image/db/178163_rotair_titlis.jpeg
+120;Sörenberg;ZS;Sörenberg, Flühli;1166;2350;50;17;2;3;12;100;;FALSE;TRUE;https://media.schneemenschen.de/image/db/199782_freeride_rothorn.jpeg
+121;Hoch-Ybrig;ZS;Oberiberg, Unteriberg;900;1938;50;6;4;1;;95;50;FALSE;TRUE;https://media.schneemenschen.de/image/db/199768_bergstation_laucheren.jpeg
+122;Stoos;ZS;Stoos;1300;1935;35;3;3;2;;;;FALSE;FALSE;https://media.schneemenschen.de/image/db/199691_kinderskiland_stoos.jpeg
+123;Melchsee-Frutt;ZS;Melchsee-Frutt;1200;2255;32;7;4;2;0;;0;TRUE;FALSE;https://media.schneemenschen.de/image/db/199717_melchsee-frutt.jpeg
+124;Brunni-Alpthal;ZS;Brunni, Alpthal;1098;1500;20;5;0;1;6;;;FALSE;TRUE;https://media.schneemenschen.de/image/db/199495_brunni-holzegg.jpeg
+125;Engadin - St. Moritz;GR;St. Moritz, Silvaplana, Sils Maria, Pontresina, Celerina, Zuoz, Maloja;1768;3303;130;11;29;16;;105;;FALSE;TRUE;https://media.schneemenschen.de/image/db/156916_beleuchtete-skipiste.jpeg
+126;Davos Klosters Mountains;GR;Davos, Klosters;814;2844;320;14;6;5;;;;FALSE;TRUE;https://media.schneemenschen.de/image/db/218700_skigebiet_parsenn.jpeg
+127;Arosa Lenzerheide;GR;Arosa, Lenzerheide, Valbella, Parpan, Churwalden;1230;2865;225;16;18;7;;;;FALSE;TRUE;https://media.schneemenschen.de/image/db/166012_sonnenuntergang_lenzerheide.jpeg
+128;Laax (Skigebiet);GR;Flims, Laax, Falera;1000;3018;166;12;7;11;;;;TRUE;TRUE;https://media.schneemenschen.de/image/db/157444_laax-snowpark.jpeg
+129;Silvretta Arena;GR;Samnaun, Ischgl (AT);1700;2900;200;16;21;5;;;;FALSE;TRUE;https://media.schneemenschen.de/image/db/202033_ischgl_snowpark.jpeg
+130;Gotthard Oberalp Arena;GR;Sedrun, Andermatt (Uri);1400;2963;125;11;7;2;18;;;FALSE;TRUE;https://media.schneemenschen.de/image/db/219098_naetsch_restaurant_thumb.jpeg
+131;Obersaxen-Mundaun;GR;Obersaxen, Surcuolm Vella GR;1201;2310;120;8;9;0;10;;90;FALSE;TRUE;https://media.schneemenschen.de/image/db/204170_bergstation_obersaxen.jpeg
+132;Savognin Bergbahnen;GR;Savognin;1207;2713;80;6;2;1;8;;;FALSE;TRUE;https://media.schneemenschen.de/image/db/199115_gondelbahn_savognin.jpeg
+133;Motta Naluns Scuol;GR;Scuol;1250;2800;80;8;5;2;;;;FALSE;TRUE;https://media.schneemenschen.de/image/db/200355_bergstation_motta-naluns.jpeg
+134;Brigels-Waltensburg-Andiast;GR;Brigels, Waltensburg, Andiast;1100;2418;75;4;5;0;;;;FALSE;TRUE;https://media.schneemenschen.de/image/db/204065_schneebar_brigels.jpeg
+135;Disentis;GR;Disentis;1150;2903;60;5;3;1;1;;;FALSE;TRUE;https://media.schneemenschen.de/image/db/200197_gondelbahn_disentis3000.jpeg
+136;Bivio;GR;Bivio;1769;2560;30;4;0;0;;;;FALSE;TRUE;https://media.schneemenschen.de/image/db/200448_winterwandern_bivio.jpeg
+137;Grüsch-Danusav;GR;Grüsch;1200;1800;30;3;1;2;;;;FALSE;TRUE;
+138;Splügen Tambo;GR;Splügen;1480;2215;30;3;2;2;;;;FALSE;TRUE;https://media.schneemenschen.de/image/db/200349_pistenplan_spluegen.jpeg
+139;Tschiertschen;GR;Tschiertschen, Praden;1350;2400;27;2;2;0;;;;FALSE;FALSE;
+140;Darlux Bergün;GR;Bergün;1373;2572;25;3;2;0;0;;;FALSE;TRUE;
+141;Minschuns Val Müstair;GR;Val Müstair/Münstertal;2000;2700;25;4;0;0;;45;;FALSE;TRUE;https://media.schneemenschen.de/image/db/200403_skilift-vallatscha_minschuns.jpeg
+142;Tschappina Heinzenberg;GR;Tschappina, Urmein;1550;2182;25;6;0;0;;;;FALSE;TRUE;
+143;Vals;GR;Vals GR;1280;2941;25;3;0;1;;120;1550;FALSE;TRUE;https://media.schneemenschen.de/image/db/200477_vals3000.jpeg
+144;Hochwang St. Peter;GR;St. Peter GR, Pagig;1480;2280;22;2;1;0;;;;FALSE;TRUE;
+145;Chur Brambrüesch;GR;Chur, Malix;1170;2200;20;2;1;2;2;;;FALSE;FALSE;https://media.schneemenschen.de/image/db/200170_gondelbahn_brambueesch.jpeg
+146;Sarn Heinzenberg;GR;Sarn;1300;2075;20;2;1;0;;;;FALSE;TRUE;
+147;Fideriser Heuberge;GR;Fideris;2000;2350;13;4;0;0;;;;FALSE;FALSE;
+148;Feldis;GR;Feldis, Rhäzüns;1500;2000;10;0;1;1;;75;;TRUE;FALSE;
+149;Avers;GR;Avers GR;2000;2600;8;3;0;0;;;;FALSE;TRUE;
+150;Pany Luzein;GR;Pany, Luzein;1330;1550;7;2;0;0;;50;;FALSE;TRUE;
+151;San Bernardino Pian Cales2;GR;San Bernardino GR;1620;1782;5;2;0;0;;;;FALSE;TRUE;
+152;Tenna;GR;Tenna;1654;2104;4;1;0;0;;;;FALSE;TRUE;
+153;St. Antönien;GR;St. Antönien;1420;1650;3;2;0;0;;;;FALSE;TRUE;
+154;Mutten;GR;Mutten, Obermutten;1700;2000;3;1;0;0;;0;;FALSE;TRUE;
+155;Flumserberg;OS;Flumserberg, Unterterzen;1000;2222;65;5;8;4;;;;TRUE;TRUE;https://media.schneemenschen.de/image/db/200156_leist_flumserberg.jpeg
+156;Toggenburg;OS;Wildhaus, Unterwasser, Alt St. Johann;900;2262;60;12;4;3;;;0;FALSE;FALSE;https://media.schneemenschen.de/image/db/200172_wolzenalp_schlepplift.jpeg
+157;Pizol;OS;Bad Ragaz, Wangs;900;2226;40;5;3;4;;170;;FALSE;TRUE;https://media.schneemenschen.de/image/db/200324_sessellift_pizol.jpeg
+158;Kerenzerberg;OS;Kerenzerberg, Filzbach;740;1280;3;2;0;0;;;;FALSE;TRUE;
+159;Airolo-Pesciüm;TI;Airolo, Nante TI;1175;2255;30;5;1;2;6;;;FALSE;TRUE;
+160;Bosco Gurin;TI;Bosco Gurin, Cevio;1480;2400;30;4;2;0;1;;20;FALSE;TRUE;
+161;Carì;TI;Carì, Faido;1650;2000;20;2;2;0;;;;FALSE;FALSE;
+162;Nara;TI;Acquarossa, Cancorì, Leontica;875;2153;30;5;2;0;;;;FALSE;FALSE;
+163;Cardada-Cimetta;TI;Locarno, Orselina;1340;1670;5.4;3;1;1;1;0;400;TRUE;FALSE;

@@ -1,0 +1,28 @@
+Level
+5
+Pro
+
+Addons
++1.25
+Styling
+2 CUIE-Controls
+Aufteilung in Layers und Module
+
+Abzüge
+-1.1
+Änderungen an vorhandenen Gebieten werden nicht gespeichert (-0.3)
+Hinterlegtes Bild wird verzerrt angezeigt
+Detail-Bereich (Textfelder) passen sich nicht an Grösse an
+Region kann nicht geändert werden(-0.2)
+Probleme bei Speichern/Laden: unterstes Skigebiet wird teilweise mehrmals angezeigt/gespeichert
+Kein Live-Update von Übersichtsbereich (-0.2)
+Trennung in View/PM nicht vollständig: ResortsSummary hat viel eigene Logik, die auch in PM gehört
+
+Bemerkungen
+Suchfeld funktioniert nicht; Addon zählt nicht
+Übersichtsbereich sollte eigentlich alle Regionen aufs Mal darstellen. Kann man mit ein bisschen Fantasie aber auch anders verstehen…
+Problematischer Konstruktor von SkiResort: sollte nur Werte nehmen, nicht Properties selbst!
+Schneeanzeige nicht sauber eingebaut: rundet auf ganze Meter und Open/Close macht nichts
+
+Total
+5.2
